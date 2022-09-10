@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.8af175c8.js",
-    "static/js/787.a5412a19.chunk.js": "/static/js/787.a5412a19.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.8af175c8.js.map": "/static/js/main.8af175c8.js.map",
-    "787.a5412a19.chunk.js.map": "/static/js/787.a5412a19.chunk.js.map"
+    "main.css": "https://kbanach.github.io/chars-counter/static/css/main.073c9b0a.css",
+    "main.js": "https://kbanach.github.io/chars-counter/static/js/main.d07ac8c8.js",
+    "static/js/787.a5412a19.chunk.js": "https://kbanach.github.io/chars-counter/static/js/787.a5412a19.chunk.js",
+    "static/media/logo.svg": "https://kbanach.github.io/chars-counter/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "https://kbanach.github.io/chars-counter/index.html",
+    "main.073c9b0a.css.map": "https://kbanach.github.io/chars-counter/static/css/main.073c9b0a.css.map",
+    "main.d07ac8c8.js.map": "https://kbanach.github.io/chars-counter/static/js/main.d07ac8c8.js.map",
+    "787.a5412a19.chunk.js.map": "https://kbanach.github.io/chars-counter/static/js/787.a5412a19.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8af175c8.js"
+    "static/js/main.d07ac8c8.js"
   ]
 }
